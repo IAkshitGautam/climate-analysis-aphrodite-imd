@@ -1,7 +1,5 @@
 # ======================================================================
-# MERGED APHRODITE TEMPERATURE + PRECIPITATION + RSN ANALYSIS
-# Madhya Pradesh | 1981–2015
-# VISUAL OUTPUT VERSION: plots display in RStudio instead of saving PNGs
+# APHRODITE TEMPERATURE & PRECIPITATION & RSN ANALYSIS
 # ======================================================================
 
 # ----------------------------------------------------------------------
