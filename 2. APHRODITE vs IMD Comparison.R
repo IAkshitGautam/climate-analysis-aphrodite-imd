@@ -1,6 +1,5 @@
 # ==============================================================================
-# IMD + APHRODITE Validation and Comparison Script
-# Madhya Pradesh | 1981–2015
+# IMD & APHRODITE Validation and Comparison Script
 #
 # Uses the APHRODITE outputs:
 #   Output_1-Temperature/nc/temp_monthly_MP.tif
