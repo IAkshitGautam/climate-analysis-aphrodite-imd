@@ -8,4 +8,4 @@ Script 2: IMD comparison and validation
 
 Author: Akshit Gautam
 
-Artificial intelligence assistance: OpenAI ChatGPT 5.3 was used to assist with coding and debugging.
+OpenAI ChatGPT 5.3 LLM was used to assist with coding and debugging.
